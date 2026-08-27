@@ -1,0 +1,11 @@
+Model Information:
+* title:	Essere-umano
+* source:	https://sketchfab.com/3d-models/essere-umano-b31d27d7f9c84584a070838cf6f583ae
+* author:	prof.minaudo (https://sketchfab.com/prof.minaudo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Essere-umano" (https://sketchfab.com/3d-models/essere-umano-b31d27d7f9c84584a070838cf6f583ae) by prof.minaudo (https://sketchfab.com/prof.minaudo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
